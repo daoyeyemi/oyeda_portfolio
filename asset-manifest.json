@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.e890c902.css",
-    "main.js": "/static/js/main.4d1bd70e.js",
+    "main.js": "/static/js/main.8ee399f6.js",
     "static/js/453.fd63d12e.chunk.js": "/static/js/453.fd63d12e.chunk.js",
     "static/media/oyedaEcom.png": "/static/media/oyedaEcom.aec4b8d6c30cef3a85d2.png",
     "static/media/ers_screenshot.png": "/static/media/ers_screenshot.cf50bda4c5f13a6c3989.png",
@@ -10,11 +10,11 @@
     "static/media/black&gray.jpeg": "/static/media/black&gray.7a007cf781ba22ac7011.jpeg",
     "index.html": "/index.html",
     "main.e890c902.css.map": "/static/css/main.e890c902.css.map",
-    "main.4d1bd70e.js.map": "/static/js/main.4d1bd70e.js.map",
+    "main.8ee399f6.js.map": "/static/js/main.8ee399f6.js.map",
     "453.fd63d12e.chunk.js.map": "/static/js/453.fd63d12e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e890c902.css",
-    "static/js/main.4d1bd70e.js"
+    "static/js/main.8ee399f6.js"
   ]
 }
