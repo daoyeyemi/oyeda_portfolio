@@ -11,7 +11,7 @@ import React from 'react';
 
 function App() {
   return (
-    <Router basename={process.env.PUBLIC_URL}>
+    <Router>
       <div>
         <AnimatePresence>
           <Routes>
