@@ -1,7 +1,6 @@
 import "./style.css";
 
 import React from "react";
-import ers_pyqt from "../../../src/downloads/ers_pyqt.zip"
 import logo1 from "../Main/github.png";
 import logo2 from "../Main/linkedin.png";
 import oyedaEcom from "../ProjectCollect/oyedaEcom.png";
@@ -15,7 +14,7 @@ function ProjectCollect() {
             <div className="row row-cols-1 row-cols-md-2 g-4">
                 <div className="col">
                     <div className="card">
-                        <a href={ers_pyqt} download="ers_pyqt.zip">
+                        <a href={"https://github.com/daoyeyemi/oyeda_portfolio/releases/tag/v1.0"} target={"_blank"}>
                             <img src={screenshot1} className="card-img-top" alt="..."/>
                         </a>
                         <div className="card-body">
@@ -27,9 +26,6 @@ function ProjectCollect() {
                                 For macOS users only.
                             </p>
                             <p className="card-text"><small className="text-muted">September 26, 2024 </small></p>
-                            <a href={ers_pyqt} download="ers_pyqt.zip">
-                                <i class="fa fa-download download-icon"></i>
-                            </a>
                         </div>
                     </div>
                 </div>
