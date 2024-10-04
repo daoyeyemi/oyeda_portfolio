@@ -1,6 +1,6 @@
 import './App.css';
 
-import { Route, BrowserRouter as Router, Routes } from "react-router-dom";
+import { Route, HashRouter as Router, Routes } from "react-router-dom";
 
 import About from "./pages/About";
 import { AnimatePresence } from "framer-motion";
